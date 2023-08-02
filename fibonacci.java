@@ -14,7 +14,7 @@ public class fibonacci{
 
     }
     public static void main(String args[]){
-        int n=25;
+        int n=3;
         System.out.println(fib(n));
     }
 }
